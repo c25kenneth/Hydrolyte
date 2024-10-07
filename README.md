@@ -43,3 +43,10 @@ We learned the importance of optimizing data handling for real-time predictions,
 
 ## What's next for Hydrolyte
 Next, we really want to try exploring the possibilities of our app. For example, we could develop a wearable device that takes in metrics that can be used on our machine learning model to calculate water loss. The device can then connect the app. The possibilities are truly endless with Hydrolyte. 
+
+## DATASET
+Our dataset was accessed from Physionet's Open Access Database. The tile of our dataset is [Quantitative Dehydration Estimation](https://physionet.org/content/qde/1.0.0/)
+
+**Original Publication:** Ring, M., Lohmueller, C., Rauh, M., and Eskofier, B. M. (2015). On sweat analysis for quantitative estimation of dehydration during physical exercise. Proceedings of the 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. Milan, Italy, pp. 7011–7014.
+
+**Physionet Citation:** Goldberger, A., et al. "PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220." (2000).
