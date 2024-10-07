@@ -1,10 +1,22 @@
-# Hydrolyte
+# Hydrolyte 💦
 
 Mobile app's source code can be found [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Mobile-App/lib).
 
 Server side code can be found [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Server).
 
 The code for our machine learning model is [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Server/MachineLearning)
+
+## Screenshots
+
+<p align="center">
+  <img width="300" alt="Screenshot_1698724058" src="https://github.com/user-attachments/assets/e5da38c8-53a5-4200-a499-6e559370762d">
+  <img width="300" alt="Screenshot 2024-08-28 150725" src="https://github.com/user-attachments/assets/b8e5b3bf-be86-4fd6-8c31-d61ff2bca4e3">
+  <img width="300" alt="Screenshot 2024-08-28 150903" src="https://github.com/user-attachments/assets/b430fbd7-b866-4e54-a0fd-d4644d2d3ffd">
+  <img width="300" alt="Screenshot 2024-08-28 150725" src="https://github.com/user-attachments/assets/b5aeaec9-bdae-43e9-9467-c232f344c7ca">
+  <img width="300" alt="Screenshot 2024-08-28 150903" src="https://github.com/user-attachments/assets/9e90fde0-c6ad-45d2-be97-567d71c41da7">
+  <img width="300" alt="Screenshot 2024-08-28 150903" src="https://github.com/user-attachments/assets/81194426-4c6e-4850-a0b4-1d9222179b48">
+  <img width="300" alt="Screenshot 2024-08-28 150903" src="https://github.com/user-attachments/assets/5143b473-9b2c-4ee7-a279-babd03253053">
+</p>
 
 
 ## Inspiration
