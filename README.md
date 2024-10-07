@@ -1,5 +1,12 @@
 # Hydrolyte
 
+Mobile app's source code can be found [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Mobile-App/lib).
+
+Server side code can be found [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Server).
+
+The code for our machine learning model is [here](https://github.com/c25kenneth/Hydrolyte/tree/main/Hydrolyte-Server/MachineLearning)
+
+
 ## Inspiration
 As an athlete, I’ve seen firsthand how crucial proper hydration is for performance and overall health. Yet, over 75% of people in the United States alone are dehydrated without even realizing it. This gap inspired me to create an app that helps individuals monitor and manage their hydration needs with machine learning.
 
